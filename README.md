@@ -54,6 +54,12 @@ AptoSupply is a decentralized supply chain management platform built on the Apto
 - Ownership transfer mechanisms
 - Automated payment processing
 
+## Images
+![image](https://github.com/user-attachments/assets/13b49637-8812-4206-877b-f1deaa3de25e)
+![image](https://github.com/user-attachments/assets/d4f97fe6-12d1-4d9c-8c67-2be922325426)
+
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
