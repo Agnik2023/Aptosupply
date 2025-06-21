@@ -23,7 +23,7 @@ AptoSupply is a decentralized supply chain management platform built on the Apto
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   https://github.com/Agnik2023/Aptosupply.git
    ```
 
 2. Install dependencies:
